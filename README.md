@@ -1,2 +1,2 @@
 # wl-setup
-Automated setup to WL 12.1 on Solaris 11
+Automated setup of WL 12.1 on Solaris 11
